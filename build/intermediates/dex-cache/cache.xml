@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/developer3/Desktop/yuan/android/interview/MyRoadTripMap/app/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b1a7fac58cc85b115adee653a10b6300f90951a">
+        <dex dex="/Users/developer3/Desktop/yuan/android/interview/MyRoadTripMap/app/build/intermediates/pre-dexed/debug/classes-7e12b1eddfe0df79d54bdfdd54be424f22c463ca.jar" />
+    </item>
+
+</items>
