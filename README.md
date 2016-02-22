@@ -1,2 +1,4 @@
 # MyRoadTripMap
-Robotic api
+- code sample
+ - Rxjava, Retrofit, retrolambda
+ - unlimited scroll pagination
